@@ -1,0 +1,14 @@
+
+#menu {height: 60px;
+		box-shadow: 1px 1px 10px grey;}
+
+#logo {width: 60px;
+		height: 30px;}
+
+#font {		margin-top:30px;
+			font-weight: bold;
+			font-size: 18px;
+			padding-left: 10px;
+			display: inline-block ;
+			font-family:Arial;
+			margin-bottom: 20px !important;}
